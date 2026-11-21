@@ -1,0 +1,22 @@
+{
+  "announcements": [
+    {
+      "id": "2026-11-21-maintenance",
+      "level": "important",
+      "title": "接口今晚 23:00 维护，预计 30 分钟",
+      "body": "这期间可能无法生成回复，已排期的自动任务会在恢复后补跑。",
+      "link": {
+        "href": "https://api-docs.deepseek.com",
+        "label": "查看状态页"
+      },
+      "startsAt": "2026-11-21T12:00:00+08:00",
+      "endsAt": "2026-11-22T00:00:00+08:00"
+    },
+    {
+      "id": "v103",
+      "level": "normal",
+      "title": "新版 1.0.3 已发布，支持远程公告",
+      "body": "插件面板里可以填写公告源地址，改这个 JSON 就是发公告。"
+    }
+  ]
+}
