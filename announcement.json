@@ -3,8 +3,8 @@
     {
       "id": "2026-11-21-maintenance",
       "level": "important",
-      "title": "接口今晚 23:00 维护，预计 30 分钟",
-      "body": "这期间可能无法生成回复，已排期的自动任务会在恢复后补跑。",
+      "title": "测试1",
+      "body": "测试2",
       "link": {
         "href": "https://api-docs.deepseek.com",
         "label": "查看状态页"
