@@ -1,10 +1,10 @@
 {
   "announcements": [
     {
-      "id": "update-129-2026-11-28",
+      "id": "update-1210-2026-11-28",
       "level": "important",
-      "title": "Cloud Chat 1.2.9 已发布",
-      "body": "本次更新：修复自定义聊天背景时输入框底部的黑色区域。\n下载后直接覆盖安装即可，请认准同一签名。",
+      "title": "Cloud Chat 1.2.10 已发布",
+      "body": "新增弹簧回弹动效。",
       "link": {
         "href": "https://yun.139.com/shareweb/#/w/i/2yA8KzDCVNMa3",
         "label": "打开云盘下载"
