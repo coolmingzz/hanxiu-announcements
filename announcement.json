@@ -20,3 +20,19 @@
     }
   ]
 }
+{
+  "announcements": [
+    {
+      "id": "update-129-2026-11-28",
+      "level": "important",
+      "title": "Cloud Chat 1.2.9 已发布",
+      "body": "本次更新内容：……\n下载后直接覆盖安装即可，请认准同一签名。",
+      "link": {
+        "href": "https://yun.139.com/shareweb/#/w/i/2yA8KzDCVNMa3/*u91R8WHnpUQx:/",
+        "label": "打开云盘下载"
+      },
+      "startsAt": "2026-11-28T20:00:00+08:00",
+      "endsAt": "2026-12-12T23:59:59+08:00"
+    }
+  ]
+}
