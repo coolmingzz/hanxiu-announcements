@@ -1,37 +1,14 @@
 {
   "announcements": [
     {
-      "id": "2026-11-21-maintenance",
-      "level": "important",
-      "title": "测试1",
-      "body": "测试2",
-      "link": {
-        "href": "https://api-docs.deepseek.com",
-        "label": "查看状态页"
-      },
-      "startsAt": "2026-11-21T12:00:00+08:00",
-      "endsAt": "2026-11-22T00:00:00+08:00"
-    },
-    {
-      "id": "v103",
-      "level": "normal",
-      "title": "新版 1.0.7 已发布，支持远程公告",
-      "body": "后续会有持续更新"
-    }
-  ]
-}
-{
-  "announcements": [
-    {
       "id": "update-129-2026-11-28",
       "level": "important",
       "title": "Cloud Chat 1.2.9 已发布",
-      "body": "本次更新内容：……\n下载后直接覆盖安装即可，请认准同一签名。",
+      "body": "本次更新：修复自定义聊天背景时输入框底部的黑色区域。\n下载后直接覆盖安装即可，请认准同一签名。",
       "link": {
-        "href": "https://yun.139.com/shareweb/#/w/i/2yA8KzDCVNMa3/*u91R8WHnpUQx:/",
+        "href": "https://yun.139.com/shareweb/#/w/i/2yA8KzDCVNMa3",
         "label": "打开云盘下载"
       },
-      "startsAt": "2026-11-28T20:00:00+08:00",
       "endsAt": "2026-12-12T23:59:59+08:00"
     }
   ]
